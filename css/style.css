@@ -11,6 +11,7 @@ body {
 
 a {
   text-decoration: none;
+  list-style: none;
 }
 
 p,
@@ -89,6 +90,16 @@ span.logo-footer {
 .main-nav {
   display: flex;
   align-items: center;
+}
+
+.social-tel {
+  display: flex;
+}
+
+.icon-tel {
+  margin: 0px;
+  padding: 0px;
+  align-items: flex-start;
 }
 
 /* hero */
