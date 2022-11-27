@@ -527,13 +527,13 @@ span.logo-footer {
 
 /* address */
 .address {
-  width: 231px;
-  height: 81px;
+  display: flex;
   margin-top: 28px;
 }
 /* footer */
 
 .footer {
+  display: flex;
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #2f303a;
@@ -579,7 +579,6 @@ span.logo-footer {
 }
 
 .footer-soc-list {
-  display: flex;
   justify-content: center;
   align-items: center;
 }
