@@ -96,6 +96,8 @@ span.logo-footer {
 
 .soc-mail {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .soc-mail:hover {
@@ -108,12 +110,12 @@ span.logo-footer {
   padding: 0px;
   align-items: center;
   justify-content: center;
+  margin-right: 10px;
 }
 
 .mail {
   display: flex;
   align-items: center;
-  margin-left: 10px;
 }
 
 .social-tel {
@@ -145,7 +147,8 @@ span.logo-footer {
 .tel {
   display: flex;
   align-items: center;
-  margin-left: 10px;
+  margin-left: 40px;
+  margin-right: 10px;
 }
 
 .auth-nav {
@@ -403,6 +406,7 @@ span.logo-footer {
   border-radius: 50%;
   width: 44px;
   height: 44px;
+  fill: #afb1b8;
 }
 
 .manager-soc-item:hover,
@@ -514,6 +518,7 @@ span.logo-footer {
   border-radius: 4px;
   width: 170px;
   height: 92px;
+  fill: #afb1b8;
 }
 
 .clients-soc:hover {
@@ -590,6 +595,7 @@ span.logo-footer {
   border-radius: 50%;
   width: 44px;
   height: 44px;
+  fill: #ffffff;
 }
 
 .footer-soc-item:hover {
