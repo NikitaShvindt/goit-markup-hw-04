@@ -583,11 +583,6 @@ span.logo-footer {
   margin-left: 70px;
 }
 
-.footer-soc-list {
-  justify-content: center;
-  align-items: center;
-}
-
 .footer-soc-item {
   display: flex;
   justify-content: center;
