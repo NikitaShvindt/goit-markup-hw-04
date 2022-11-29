@@ -566,6 +566,7 @@ span.logo-footer {
 }
 
 .footer-soc-title {
+  margin-top: 12px;
   margin-bottom: 20px;
   font-weight: 700;
   font-size: 14px;
@@ -595,4 +596,16 @@ span.logo-footer {
 
 .footer-soc-item:hover {
   background-color: #2196f3;
+}
+
+.footer-position {
+  display: flex;
+}
+
+.social-list {
+  display: flex;
+}
+
+.footer-soc-list {
+  margin-left: 70px;
 }
